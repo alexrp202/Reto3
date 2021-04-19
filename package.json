@@ -1,11 +1,10 @@
 {
-  "name": "MOOC_node_mod1-eventos_entrega",
-  "author": "ging-moocs",
+  "name": "Reto3",
+  "author": "alexrp202",
   "license": "GNU",
   "version": "0.0.0",
   "info": {
-    "githubURL": "ging-moocs/MOOC_node_mod1-eventos_entrega",
-    "serverUrl": "https://autocorector.dit.upm.es/",
+    "githubURL": "alexrp202/Reto3",
     "courseId": "2",
     "assignmentId": "17"
   },
